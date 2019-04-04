@@ -5,3 +5,7 @@ este genial libro de [Kruschke](http://www.indiana.edu/~kruschke/DoingBayesianDa
 
 Conforme tengamos material, se subirá a este repositorio.
 
+## Índice
+
+En [la carpeta r](../r) se encuentra código de R.
+En [la de py](../py) de Python (v3.7)
