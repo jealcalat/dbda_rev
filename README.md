@@ -7,5 +7,5 @@ Conforme tengamos material, se subirá a este repositorio.
 
 ## Índice
 
-En [la carpeta r](../r) se encuentra código de R.
-En [la de py](../py) de Python (v3.7)
+- En [la carpeta r](r/) se encuentra código de R.
+- En [la de py](py/) de Python (v3.7)
