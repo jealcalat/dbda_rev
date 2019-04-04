@@ -9,3 +9,4 @@ Conforme tengamos material, se subirá a este repositorio.
 
 - En [la carpeta r](r/) se encuentra código de R.
 - En [la de py](py/) de Python (v3.7)
+- Las notas serán compuestas en LaTeX, y se encuentran [aquí](tex/).
